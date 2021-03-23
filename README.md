@@ -20,7 +20,7 @@ HTML = to render the page
 
 ## Launch
 
-We have included a [html page](https://github.com/CustomHaven/dog-years.git) when you land on the page you will see a prompt asking for your name. Type your name in. Then pops up another prompt asking for your age. Type your age in.
+We have included a [html page](https://customhaven.github.io/dog-years/) when you land on the page you will see a prompt asking for your name. Type your name in. Then pops up another prompt asking for your age. Type your age in.
 
 ---
 
